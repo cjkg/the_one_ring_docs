@@ -1,2 +1,2 @@
-# the_one_ring_docs
+# The One Ring Cheatsheets
 Documents to aid in playing The One Ring TTRPG, 2E
